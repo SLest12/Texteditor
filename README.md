@@ -2,7 +2,7 @@
 ## Description
  This app is a text editor that runs in the browser 
 ## Deployed Application URL
-
+https://texteditor-4qny.onrender.com/
 ## Screenshot
 ![alt-text](undefined)
 ## Table of Contents
@@ -17,7 +17,7 @@ undefined
 ## Languages & Dependencies
 
 ## How to Use This Application:
-
+run npm i and npm start after
 ## Contributors
 undefined
 ## Testing
